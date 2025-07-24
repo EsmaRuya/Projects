@@ -48,10 +48,7 @@ If no key is entered, a **default key of 2** is used.
 
 ### 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/SecureCrypt.git
-   ```
+1. Clone the repository and Go to SecureCrypt folder.
 
 2. Open the solution file (.sln) in Visual Studio.
 
