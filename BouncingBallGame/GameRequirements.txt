@@ -1,0 +1,33 @@
+🎮 Game Requirements - Bouncing Ball Game
+---
+
+🧩 Main Characters
+1 - Ball    : Moves around the screen in all directions, bouncing off walls and the paddle.
+2 - Paddle  : Controlled by the player using the "left" and "right" arrow keys on the keyboard.
+
+---
+
+📜 Rules and Constraints
+
+1. The ball moves continuously inside the game area.
+
+2. If the ball hits the "left", "right", or "top" edge of the screen, it bounces back.
+
+3. If the ball touches the "paddle", it bounces upward, and the game continues.
+
+4. If the ball reaches the "bottom edge" of the screen (i.e., it misses the paddle), the player loses.
+
+5. After losing, the player is shown a message and can choose to:
+   - Restart the game
+   - Close the application.
+
+---
+
+🎯 Controls
+- Left Arrow (←): Move paddle to the left.
+- Right Arrow (→): Move paddle to the right.
+
+---
+
+✅ Objective
+Keep the ball bouncing using the paddle for as long as possible.
