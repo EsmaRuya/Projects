@@ -1,4 +1,4 @@
-## 🏀 Paint App (05/08/2025)
+## Paint App (05/08/2025)
 
 **PaintApp** is a simple and fun Windows Forms app built with C#.
 Draw freely or choose basic shapes and colors to draw.
